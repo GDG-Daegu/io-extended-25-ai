@@ -16,5 +16,5 @@ Google I/O Extended in Uiseong 2025 핸즈온 세션
 **[➡️ AI 세션 실습](https://colab.research.google.com/)**
 
 링크에 접속하여 GitHub 저장소에서 content.ipynb 파일을 열어주세요.
-
+혹은 다운 받은 후 colab에 추가바랍니다.
 ![이미지](./images/colab.png)
